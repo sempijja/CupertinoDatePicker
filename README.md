@@ -6,9 +6,6 @@ This project is a simple HTML, CSS, and JavaScript-based implementation of a Cup
 
 - **Date Picker**: Displays selectable dates (30 days starting from today).
 - **Time Picker**: Automatically adjusts to 12-hour or 24-hour format depending on the device.
-- **Hour Picker**: Allows selecting specific hours.
 - **Dynamic Input Update**: Updates a text field to show the selected date or time in a format like "Today at [time]" if the date is today.
 - **Scrollable UI**: Simulates the iOS-style scrollable picker.
-
-## Project Structure
 
